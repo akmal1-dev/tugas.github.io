@@ -1,0 +1,46 @@
+{
+    "status": 1,
+    "message": "Get List Mahasiswa Successfully.",
+    "data": [
+        {
+            "id": "53",
+            "npm": "432007006200155",
+            "nama": "Akmal Fauzan Muslihudin",
+            "email": "akmalubed123@gmail.com",
+            "jurusan": "Teknik Informatika",
+            "foto": "gamer.png"
+        },
+        {
+            "id": "54",
+            "npm": "432007006200162",
+            "nama": "Deva Ayulestari Nugroho",
+            "email": "deva@gmail.com",
+            "jurusan": "Teknik Informatika",
+            "foto": "female.png"
+        },
+        {
+            "id": "55",
+            "npm": "432007006200144",
+            "nama": "Indah Putri Puspa Sari",
+            "email": "indah@gmail.com",
+            "jurusan": "Teknik Informatika",
+            "foto": "female.png"
+        },
+        {
+            "id": "56",
+            "npm": "432007006200125",
+            "nama": "Muhammad Alfian Fadillah",
+            "email": "indah@gmail.com",
+            "jurusan": "Teknik Informatika",
+            "foto": "gamer.png"
+        },
+        {
+            "id": "57",
+            "npm": "432007006200047",
+            "nama": "Raka Aditya Nugraha",
+            "email": "Raka@gmail.com",
+            "jurusan": "Teknik Informatika",
+            "foto": "gamer.png"
+        }
+    ]
+}

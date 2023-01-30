@@ -1,0 +1,12 @@
+{
+    "status": 1,
+    "message": "Get contact Successfully.",
+    "data": [
+        {
+            "id": "1",
+            "alamat": "Jl.Raya Mulus Selalu",
+            "email": "jasexpress@gmail.com",
+            "telepon": "6331933"
+        }
+    ]
+}

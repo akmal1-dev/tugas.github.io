@@ -1,0 +1,26 @@
+{
+    "status": 1,
+    "message": "Data Service.",
+    "data": [
+        {
+            "id": "1",
+            "judul": "Design UI/UX",
+            "deskripsi": "UI UX designer adalah kedua bidang yang memiliki fungsi untuk mengembangkan desain produk."
+        },
+        {
+            "id": "2",
+            "judul": "Design Social Media",
+            "deskripsi": "Design content di instagram dan facebook semenarik mungkin"
+        },
+        {
+            "id": "3",
+            "judul": "Foto Product",
+            "deskripsi": "Foto sebuah product brand anda untuk kebutuhan content social media dan mengenalkan product anda aga"
+        },
+        {
+            "id": "5",
+            "judul": "Website",
+            "deskripsi": "kami menyediakan jasa pembuatan website dimulai dari company profile dan request dari client"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "status": 1,
+    "message": "Get List About Successfully.",
+    "data": [
+        {
+            "id": "4",
+            "about_kiri": "Kami berdiri ppada tahun 2023 dengan misi membantu umkm untuk lebih maju pada zaman 4.0 ini.",
+            "about_kanan": "Kami penyedia jasa dalam bidang teknologi yang di antaranya yaitu,content social media,foto product,ui/ux design dan pembuatan aplikasi berbasis website untuk perusahaan atau perorangan."
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "status": 1,
+    "message": "Get pricing Successfully.",
+    "data": [
+        {
+            "id": "1",
+            "judul": "Free",
+            "harga": "0",
+            "reward_satu": "Design Instagram 2 Feed",
+            "reward_dua": "1 Foto Product",
+            "reward_tiga": null,
+            "reward_empat": null,
+            "reward_lima": null,
+            "reward_enam": null
+        },
+        {
+            "id": "2",
+            "judul": "Paket Bisnis",
+            "harga": "500.000",
+            "reward_satu": "10 Design Content Instagram & Tiktok",
+            "reward_dua": "3 Foto Product",
+            "reward_tiga": "Admin Social Media",
+            "reward_empat": null,
+            "reward_lima": null,
+            "reward_enam": null
+        },
+        {
+            "id": "3",
+            "judul": "Paket Premium",
+            "harga": "1999.000",
+            "reward_satu": "35 Design Content Instagram & Tiktok",
+            "reward_dua": "7 Foto Product",
+            "reward_tiga": "Admin Social Media",
+            "reward_empat": "1 Bulan Digital Marketing",
+            "reward_lima": "Website Company Profile",
+            "reward_enam": "Hosting Web 3 Bulan"
+        }
+    ]
+}
